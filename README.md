@@ -37,7 +37,7 @@ Unlike traditional bots, this one doesn't rely on static rules — it finds the 
 | Question Answering      | `transformers` (`distilbert-base-uncased-distilled-squad`) |
 | UI / Chatbot Interface  | `gradio`                                             |
 | Language                | Python                                               |
-| Environment             | Google Colab / Jupyter Notebook / Local              |
+| Environment             | Google Colab                                         |
 
 ---
 
